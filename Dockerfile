@@ -1,4 +1,4 @@
-FROM vsts-agent-docker:ubuntu-16.04-tfs-2018-docker-17.12.0-ce
+FROM microsoft/vsts-agent:ubuntu-16.04-tfs-2018-docker-17.12.0-ce
 
 ENV DOCKER_COMPOSE_VERSION 1.22.0
 
